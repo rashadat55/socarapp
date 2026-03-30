@@ -1,0 +1,2 @@
+# socarapp
+Sade HTML Versiyası
